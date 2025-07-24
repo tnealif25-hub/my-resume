@@ -1,0 +1,152 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Tanasha Neal - Cybersecurity Resume</title>
+  <style>
+    body {
+      font-family: 'Georgia', serif;
+      background: #f7f4f1;
+      color: #222;
+      margin: 0;
+      padding: 40px;
+      max-width: 900px;
+      margin: auto;
+      box-shadow: 0 0 20px rgba(0,0,0,0.1);
+    }
+
+    h1, h2 {
+      color: #B8860B; /* classy gold */
+      border-bottom: 1px solid #ccc;
+      padding-bottom: 5px;
+    }
+
+    h1 {
+      font-size: 36px;
+      margin-bottom: 5px;
+    }
+
+    h2 {
+      font-size: 24px;
+      margin-top: 40px;
+    }
+
+    .contact {
+      font-size: 16px;
+      margin-bottom: 20px;
+    }
+
+    ul {
+      padding-left: 20px;
+      margin-top: 5px;
+    }
+
+    li {
+      margin-bottom: 6px;
+      line-height: 1.5;
+    }
+
+    .section {
+      margin-bottom: 30px;
+    }
+
+    hr {
+      border: none;
+      border-top: 1px solid #bbb;
+      margin: 20px 0;
+    }
+
+    .date-right {
+      float: right;
+      font-weight: normal;
+      color: #666;
+    }
+
+    @media print {
+      body {
+        box-shadow: none;
+      }
+    }
+  </style>
+</head>
+<body>
+
+  <h1>Tanasha Neal</h1>
+  <p class="contact">Tneal0916@hotmail.com | (929) 483-3267 | New York, NY</p>
+  <hr />
+
+  <div class="section">
+    <h2>Summary</h2>
+    <p>Security Supervisor and Cybersecurity student at The Knowledge House (TKH). Background in corporate security, customer service, and property management for over 6 years.</p>
+  </div>
+
+  <div class="section">
+    <h2>Skills</h2>
+    <ul>
+      <li>Amazon Web Services (EC2, S3, IAM)</li>
+      <li>Linux Administration / Bash Scripting</li>
+      <li>Cybersecurity Fundamentals</li>
+      <li>Networking (TCP/IP, Subnetting, DNS)</li>
+      <li>Active Directory & User Account Management</li>
+      <li>Git / GitHub</li>
+      <li>Technical Documentation & Ticketing Systems</li>
+    </ul>
+  </div>
+
+  <div class="section">
+    <h2>Experience</h2>
+    <p><strong>Security Supervisor</strong> - Elite Investigations <span class="date-right">March 2024 – Present</span></p>
+    <ul>
+      <li>Supervised a team of 8 security officers ensuring safety and NYC Fire Code compliance.</li>
+      <li>Coordinated emergency drills under F-80 certification.</li>
+      <li>Monitored surveillance, access control, and alarm systems.</li>
+      <li>Created incident reports and liaised with law enforcement.</li>
+      <li>Inspected emergency exits and fire systems for compliance.</li>
+    </ul>
+
+    <p><strong>Corporate Security</strong> - MUFG Bank <span class="date-right">Feb 2023 – March 2024</span></p>
+    <ul>
+      <li>Monitored surveillance equipment and verified visitors.</li>
+      <li>Created ID badges and managed access systems.</li>
+      <li>Performed routine security checks and access enforcement.</li>
+    </ul>
+  </div>
+
+  <div class="section">
+    <h2>Certifications</h2>
+    <ul>
+      <li><strong>AWS Educate</strong> – Getting Started with Storage, Database, Networking, and Compute</li>
+      <li><strong>AWS Educate</strong> – Introduction to Cloud 101</li>
+    </ul>
+  </div>
+
+  <div class="section">
+    <h2>Projects</h2>
+
+    <p><strong>Bloomberg NYC Hackathon – 2nd Place Winner</strong> <span class="date-right">July 2025</span></p>
+    <ul>
+      <li>Collaborated in a team of 6 cybersecurity students using hash scripting, IDOR, and client-side vulnerabilities.</li>
+      <li>Executed penetration tests in simulated real-world environments.</li>
+      <li>Analyzed JavaScript logic and demonstrated findings to judges.</li>
+      <li>Documented progress using team-based activity logs.</li>
+    </ul>
+
+    <p><strong>Cybersecurity Virtual Lab – Offensive & Defensive Environment</strong> <span class="date-right">May 2025</span></p>
+    <ul>
+      <li>Built a cybersecurity lab with pfSense, Kali Linux, Metasploitable2, and Snort in VirtualBox.</li>
+      <li>Configured a segmented network with DHCP, static IPs, and intrusion detection policies.</li>
+      <li>Simulated attacks and validated Snort detection/blocking via IDS/IPS rules.</li>
+      <li>Used tools like Nmap, Metasploit, Hydra, Burp Suite, and SQLmap for hands-on learning.</li>
+    </ul>
+  </div>
+
+  <div class="section">
+    <h2>Education</h2>
+    <p><strong>Associate Degree in Social Behavioral Science</strong><br />Medgar Evers College – New York, NY<br />Graduated: May 2015</p>
+    <p><strong>Cyber Security Program</strong><br />The Knowledge House – New York, NY<br />Graduate: December 2025</p>
+  </div>
+
+</body>
+</html>
+
